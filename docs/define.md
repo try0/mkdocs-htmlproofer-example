@@ -8,6 +8,8 @@ test test test
 
 test test test 
 
+## Header3 with class {: #header-3 .class-value}
+
 
 ![Image1](https://github.com/manuzhang/mkdocs-htmlproofer-plugin/actions/workflows/ci.yml/badge.svg){: #image-1 }
 
@@ -17,5 +19,7 @@ test test test
 [Header1](#header-1)
 
 [Header2](#header-2)
+
+[Header3 with class](#header-3)
 
 [Image1](#image-1)
